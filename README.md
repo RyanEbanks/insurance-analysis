@@ -9,8 +9,6 @@ The Centers for Medicare & Medicaid Services (CMS) Center for Consumer Informati
 - [Data Preparation](#data-preparation)
 
 ## Project Overview
-The Centers for Medicare & Medicaid Services (CMS) Center for Consumer Information and Insurance Oversight (CCIIO) is committed to increasing transparency in the Health Insurance Exchanges. CMS publishes downloadable public use files (PUFs) so that researchers and other stakeholders can more easily access Exchange data. 
-
 This analysis evaluates key indicators of health insurance market performance across the United States in 2025, focusing on premium costs, plan diversity, and issuer competitiveness. The dataset was sourced from the CMS Health Insurance Marketplace public use files, including plan attributes, benefits and cost sharing, network, issuer details and quality ratings for 2025. The analysis covers participating states and insurance issuers.
 
 ## Data & Tools
