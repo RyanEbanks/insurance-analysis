@@ -38,3 +38,5 @@ Key steps:
 
   An example of excel issues log: <img width="1850" height="574" alt="excel issues log" src="https://github.com/user-attachments/assets/3f06db0a-b89a-4107-917d-c141ae01b04e" />
 
+Screenshot of Dashboard <img width="1373" height="896" alt="image" src="https://github.com/user-attachments/assets/41cbed79-70d7-40eb-b3b2-7558abf43eb6" />
+
