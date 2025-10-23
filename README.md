@@ -18,7 +18,7 @@ This analysis evaluates key indicators of health insurance market performance ac
 * Report Format: PDF Report + Interactive Tableau Dashboard
 
 ## Dashboard Link
-[View Tableau Dashboard]()
+[View Tableau Workbook File](./tableau%20dashboard)
 
 ## Full Report
 [Read the Full Analytical Report (PDF)]()
