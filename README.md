@@ -21,7 +21,7 @@ This analysis evaluates key indicators of health insurance market performance ac
 [View Tableau Workbook File](./tableau%20dashboard)
 
 ## Full Report
-[Read the Full Analytical Report (PDF)]()
+[Read the Full Analytical Report (PDF)](https://ebanksdev.com/resume/Analysis%20of%202025%20Health%20Insurance%20Exchange%20Public%20Use%20Files.pdf)
 
 ## Data Preparation
 Data was split using a python a script and preprocessed using python before cleaning inn excel and visualization in Tableau.
